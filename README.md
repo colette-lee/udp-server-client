@@ -1,6 +1,8 @@
 # Reliable UDP Client-Server System
 ## CS176A Computer Communication Networks Assignment
 
+The basic functionality of the system is to exchange commands and output between a client and server. The client and server should be run on different machines or different directories on the same machine.
+
 The client, when started, requests the following information:
 1. Enter server name or IP address:
 2. Enter port:
